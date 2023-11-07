@@ -1,1 +1,1 @@
-abc
+write something=10
