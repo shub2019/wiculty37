@@ -1,1 +1,1 @@
-write something=10
+write something=30
